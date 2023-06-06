@@ -11,3 +11,10 @@ tgbot = {
 }
 ```
 
+## Start 
+
+```shell
+pip install python-telegram-bot==13.15
+
+python bot.py
+```
