@@ -49,7 +49,7 @@ def echo(update: Update, context: CallbackContext) -> None:
             result_list.append(f"{i}. {entry['entry']}: {entry['explain']}\n")
         result_str = "".join(result_list)
     else:
-        result_str = f"查询失败，错误码：{data['result']['code']}"
+        result_str = "只能查单词哦(。•́︿•̀。)"
 
     context.bot.send_message(chat_id=update.effective_chat.id, text=result_str)
 
