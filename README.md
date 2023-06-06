@@ -1,5 +1,6 @@
 # transbot
 >  A Telegram bot for look sth up in the dictionary
+>  Thanks @bear-zd 's server
 
 ## Configurations
 
