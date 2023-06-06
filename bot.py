@@ -51,8 +51,6 @@ def echo(update: Update, context: CallbackContext) -> None:
     else:
         result_str = f"查询失败，错误码：{data['result']['code']}"
 
-    print(f"查询：{data['data']['query']}\n")
-
     context.bot.send_message(chat_id=update.effective_chat.id, text=result_str)
 
 def main(token) -> None:
