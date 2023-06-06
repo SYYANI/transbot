@@ -1,7 +1,7 @@
 # transbot
 >  A Telegram bot for look sth up in the dictionary
 
->  Thanks [@bear-zd](https://github.com/bear-zd) 's server
+>  Thanks [@bear-zd](https://github.com/bear-zd)'s server
 
 ## Configurations
 
@@ -24,4 +24,4 @@ python bot.py
 
 ## License
 
-RVVSoC is under the [BSD-2-Clause license](https://github.com/SYYANI/transbot/blob/main/LICENSE). See the [LICENSE](./LICENSE) file for details.
+transbot is under the [BSD-2-Clause license](https://github.com/SYYANI/transbot/blob/main/LICENSE). See the [LICENSE](./LICENSE) file for details.
