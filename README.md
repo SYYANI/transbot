@@ -21,6 +21,7 @@ pip install python-telegram-bot==13.15
 python bot.py
 ```
 
+you may also need to change the proxy configuration in bot.py file.
 
 ## License
 
