@@ -1,5 +1,6 @@
 # transbot
 >  A Telegram bot for look sth up in the dictionary
+>  Update[2024-4-2]: Now supports Chinese and English auto-translation as well as word translation!
 
 >  Thanks [@bear-zd](https://github.com/bear-zd)'s server
 
