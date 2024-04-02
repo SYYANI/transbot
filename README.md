@@ -18,7 +18,7 @@ tgbot = {
 ## Start 
 
 ```shell
-pip install python-telegram-bot==13.15
+pip install -r requirements.txt
 
 python bot.py
 ```
